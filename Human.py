@@ -15,3 +15,4 @@ class Human(object):
 
 human1 = Human(22,"Black","Brown","Pale","Caucasian")
 human1.humanDefinition()
+print("hello")
